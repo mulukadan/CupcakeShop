@@ -1,0 +1,15 @@
+h1 {
+  color: orange
+}
+h2 {
+  color: orange
+}
+.flashy {
+  color: red;
+  font-style: italic;
+}
+.best{
+  color: #8c7853;
+  font-style: italic;
+  width: 60%;
+}
